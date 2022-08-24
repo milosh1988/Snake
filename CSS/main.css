@@ -1,0 +1,44 @@
+h1 {  
+    text-align: center;  
+    padding: 20px;  
+    font-size: 70px;
+    background-color: rgb(38, 152, 198);  
+    color: white;  
+    border-style: dotted;
+    }  
+    
+
+ .fromstyle {
+    width: 510px;
+    height: 510px;
+    border: 5px solid gray;
+    margin: auto;
+    position: relative;
+  }
+
+  .jabuka {
+   position: absolute;
+   width: 49px;
+   height: 49px;
+  }
+
+  .score {
+   margin: auto;
+  background-color: #78abb5;
+  border: 1px solid rgb(136, 172, 193);
+  opacity: 0.9;
+position: relative;
+  font-weight: bold;
+  color: #000000;
+  width: 2%;
+   height: 20px;
+   margin-top: -20px ;
+  }
+
+  
+ .becground {
+  position: absolute;
+  background-image;
+  color: #000000;
+}
+  
